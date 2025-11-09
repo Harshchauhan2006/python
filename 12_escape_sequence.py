@@ -1,4 +1,5 @@
-A="hello guys mera name h harsh chauhan \n aur aaj me krra hoon python m programming"
+A="hello guys mera name h harsh chauhan \naur aaj me krra hoon python m programming"
 print(A)
-B="my name is Harsh Chauhan \; and what is your name"
+B="my name is Harsh Chauhan \tand what is your name"
+
 print(B)
