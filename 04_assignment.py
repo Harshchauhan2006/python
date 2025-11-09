@@ -1,0 +1,9 @@
+a=1
+b=33
+c=45
+a-=4
+print(a)
+b+=12
+print(b)
+c+=22
+print(c)
