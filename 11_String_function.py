@@ -9,7 +9,8 @@ disrtict="haridwar"
 print(disrtict.capitalize())
 S="Hello guys mera name ha harsh chauhan"
 count=S.count("a")
-print(count)
+print(count) 
 D="hello friends i am doing python today"
 change=D.replace("python","java")
 print(change)
+
