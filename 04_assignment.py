@@ -3,7 +3,8 @@ b=33
 c=45
 a-=4
 print(a)
-b+=12
+b+=12  #b=b+12
 print(b)
-c+=22
+c+=22  #c=c+22
+
 print(c)
