@@ -12,4 +12,3 @@ elif(a==0):
 
 else:
     print("you are under age")
-
