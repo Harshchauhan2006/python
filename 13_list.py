@@ -17,4 +17,5 @@ print(l1)
 l1.pop(5)
 print(l1)
 l1.remove(21)
+
 print(l1)
